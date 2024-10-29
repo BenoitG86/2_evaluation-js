@@ -1,0 +1,12 @@
+.completed {
+    text-decoration: line-through;;
+}
+
+li {
+    list-style:none;
+    padding: 5px 0;
+}
+
+li button {
+    margin: 5px;
+}
